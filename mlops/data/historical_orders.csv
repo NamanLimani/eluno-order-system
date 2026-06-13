@@ -1,0 +1,1001 @@
+order_id,lens_type,coating,store_location,current_stage,time_elapsed_hours,breached_sla
+HIST-1000,Plano,None,"Brooklyn, NY",Processing,15.44,0
+HIST-1001,Plano,None,Online,Intake,0.68,0
+HIST-1002,Plano,None,"Manhattan, NY",Shipped,22.46,0
+HIST-1003,Progressive,None,"Manhattan, NY",QC,41.4,0
+HIST-1004,Progressive,None,"Brooklyn, NY",QC,25.85,0
+HIST-1005,Single Vision,Transitions,"Brooklyn, NY",QC,18.01,0
+HIST-1006,Progressive,Anti-Reflective,"Brooklyn, NY",Intake,64.34,0
+HIST-1007,Single Vision,Anti-Reflective,"Brooklyn, NY",QC,28.71,0
+HIST-1008,Progressive,Blue Light,"Manhattan, NY",Processing,69.08,0
+HIST-1009,Plano,Anti-Reflective,"Manhattan, NY",Inventory Check,26.32,0
+HIST-1010,Plano,Anti-Reflective,"Queens, NY",Intake,9.6,0
+HIST-1011,Progressive,Transitions,"Queens, NY",Intake,28.79,0
+HIST-1012,Plano,Blue Light,"Manhattan, NY",QC,39.54,0
+HIST-1013,Progressive,Anti-Reflective,"Manhattan, NY",Shipped,53.6,0
+HIST-1014,Progressive,Transitions,"Queens, NY",Inventory Check,83.25,1
+HIST-1015,Progressive,None,"Brooklyn, NY",Intake,9.68,0
+HIST-1016,Plano,Transitions,"Brooklyn, NY",QC,40.62,0
+HIST-1017,Plano,None,"Brooklyn, NY",Shipped,42.82,0
+HIST-1018,Progressive,None,"Queens, NY",QC,23.51,0
+HIST-1019,Plano,Blue Light,"Manhattan, NY",Shipped,60.73,1
+HIST-1020,Progressive,Anti-Reflective,"Manhattan, NY",Processing,83.38,1
+HIST-1021,Plano,None,"Queens, NY",QC,24.39,0
+HIST-1022,Progressive,Anti-Reflective,"Brooklyn, NY",Inventory Check,85.28,1
+HIST-1023,Single Vision,Transitions,"Brooklyn, NY",Shipped,41.32,0
+HIST-1024,Progressive,Anti-Reflective,"Queens, NY",Shipped,76.95,1
+HIST-1025,Single Vision,Anti-Reflective,"Queens, NY",QC,70.4,1
+HIST-1026,Plano,Transitions,"Brooklyn, NY",Inventory Check,13.94,0
+HIST-1027,Plano,Anti-Reflective,"Manhattan, NY",Intake,9.67,0
+HIST-1028,Single Vision,None,"Brooklyn, NY",Processing,16.75,0
+HIST-1029,Single Vision,Anti-Reflective,Online,Inventory Check,52.56,1
+HIST-1030,Single Vision,None,"Brooklyn, NY",QC,34.72,0
+HIST-1031,Single Vision,None,"Brooklyn, NY",QC,44.87,0
+HIST-1032,Single Vision,Anti-Reflective,Online,Inventory Check,24.17,0
+HIST-1033,Single Vision,None,Online,Shipped,10.38,0
+HIST-1034,Plano,None,"Brooklyn, NY",Inventory Check,11.1,0
+HIST-1035,Single Vision,Transitions,"Brooklyn, NY",Inventory Check,32.35,0
+HIST-1036,Progressive,Transitions,"Queens, NY",QC,79.79,1
+HIST-1037,Plano,Transitions,"Manhattan, NY",Inventory Check,27.46,0
+HIST-1038,Plano,None,"Queens, NY",Intake,5.51,0
+HIST-1039,Plano,Anti-Reflective,"Brooklyn, NY",Shipped,3.51,0
+HIST-1040,Plano,None,"Manhattan, NY",QC,19.23,0
+HIST-1041,Plano,None,"Brooklyn, NY",QC,42.29,0
+HIST-1042,Progressive,Anti-Reflective,"Queens, NY",Inventory Check,21.23,0
+HIST-1043,Plano,Blue Light,Online,Processing,63.09,1
+HIST-1044,Plano,None,"Brooklyn, NY",Shipped,10.0,0
+HIST-1045,Progressive,None,"Manhattan, NY",Processing,34.12,0
+HIST-1046,Progressive,None,"Queens, NY",Intake,64.71,0
+HIST-1047,Single Vision,None,"Manhattan, NY",Processing,21.49,0
+HIST-1048,Plano,Blue Light,Online,Processing,62.11,1
+HIST-1049,Progressive,Blue Light,"Brooklyn, NY",Intake,26.98,0
+HIST-1050,Progressive,Anti-Reflective,Online,Shipped,64.91,0
+HIST-1051,Single Vision,None,"Manhattan, NY",Shipped,3.23,0
+HIST-1052,Plano,Anti-Reflective,Online,Inventory Check,4.03,0
+HIST-1053,Single Vision,Blue Light,"Manhattan, NY",Inventory Check,39.12,0
+HIST-1054,Plano,Transitions,"Manhattan, NY",Inventory Check,59.61,1
+HIST-1055,Single Vision,Transitions,"Brooklyn, NY",Inventory Check,42.73,0
+HIST-1056,Progressive,Anti-Reflective,"Queens, NY",Inventory Check,65.03,0
+HIST-1057,Single Vision,Transitions,"Manhattan, NY",Inventory Check,49.16,1
+HIST-1058,Progressive,Anti-Reflective,"Manhattan, NY",Intake,58.62,0
+HIST-1059,Progressive,None,"Queens, NY",Processing,65.44,0
+HIST-1060,Plano,Blue Light,"Brooklyn, NY",Intake,49.58,1
+HIST-1061,Plano,Blue Light,"Brooklyn, NY",Intake,35.03,0
+HIST-1062,Progressive,Transitions,"Brooklyn, NY",QC,80.46,1
+HIST-1063,Progressive,None,"Manhattan, NY",Processing,55.21,0
+HIST-1064,Plano,Blue Light,"Brooklyn, NY",Processing,41.36,0
+HIST-1065,Plano,Blue Light,"Manhattan, NY",Inventory Check,34.02,0
+HIST-1066,Plano,Anti-Reflective,"Queens, NY",QC,36.41,0
+HIST-1067,Progressive,Blue Light,Online,QC,48.44,0
+HIST-1068,Plano,Anti-Reflective,"Brooklyn, NY",Processing,41.63,0
+HIST-1069,Single Vision,Blue Light,"Manhattan, NY",Inventory Check,5.2,0
+HIST-1070,Progressive,None,Online,QC,80.5,1
+HIST-1071,Progressive,Transitions,Online,Inventory Check,19.6,0
+HIST-1072,Single Vision,Transitions,"Manhattan, NY",Inventory Check,51.99,1
+HIST-1073,Progressive,None,"Manhattan, NY",Intake,40.7,0
+HIST-1074,Plano,Blue Light,Online,Shipped,55.55,1
+HIST-1075,Progressive,Transitions,"Manhattan, NY",QC,59.99,0
+HIST-1076,Progressive,Transitions,"Manhattan, NY",Processing,49.67,0
+HIST-1077,Progressive,Blue Light,"Brooklyn, NY",Inventory Check,15.31,0
+HIST-1078,Single Vision,Anti-Reflective,"Brooklyn, NY",QC,35.85,0
+HIST-1079,Single Vision,Transitions,Online,Shipped,49.85,1
+HIST-1080,Plano,Transitions,Online,Intake,53.85,1
+HIST-1081,Progressive,Transitions,"Manhattan, NY",QC,25.16,0
+HIST-1082,Progressive,Transitions,"Manhattan, NY",QC,97.41,1
+HIST-1083,Progressive,None,"Brooklyn, NY",QC,16.44,0
+HIST-1084,Progressive,Blue Light,"Manhattan, NY",QC,42.75,0
+HIST-1085,Progressive,Blue Light,"Brooklyn, NY",QC,23.83,0
+HIST-1086,Progressive,Anti-Reflective,"Brooklyn, NY",Intake,74.85,1
+HIST-1087,Single Vision,None,"Manhattan, NY",Inventory Check,11.97,0
+HIST-1088,Plano,Anti-Reflective,Online,Processing,55.24,1
+HIST-1089,Plano,None,"Manhattan, NY",Processing,11.02,0
+HIST-1090,Plano,Transitions,Online,Inventory Check,10.85,0
+HIST-1091,Plano,Anti-Reflective,"Brooklyn, NY",Processing,56.98,1
+HIST-1092,Plano,None,"Queens, NY",Shipped,21.69,0
+HIST-1093,Plano,Blue Light,"Brooklyn, NY",QC,63.05,1
+HIST-1094,Plano,Transitions,"Manhattan, NY",QC,26.11,0
+HIST-1095,Plano,Transitions,Online,QC,58.53,1
+HIST-1096,Single Vision,None,"Queens, NY",QC,26.26,0
+HIST-1097,Progressive,Blue Light,"Brooklyn, NY",QC,78.79,1
+HIST-1098,Progressive,Blue Light,"Queens, NY",Shipped,60.26,0
+HIST-1099,Single Vision,Anti-Reflective,"Brooklyn, NY",Inventory Check,44.14,0
+HIST-1100,Single Vision,Transitions,Online,QC,50.18,1
+HIST-1101,Plano,Anti-Reflective,"Queens, NY",Shipped,25.31,0
+HIST-1102,Progressive,Transitions,"Queens, NY",Processing,67.74,0
+HIST-1103,Single Vision,Anti-Reflective,"Queens, NY",Intake,52.36,1
+HIST-1104,Plano,Anti-Reflective,"Manhattan, NY",Inventory Check,42.0,0
+HIST-1105,Plano,Blue Light,"Brooklyn, NY",Inventory Check,18.32,0
+HIST-1106,Progressive,None,"Manhattan, NY",Processing,9.64,0
+HIST-1107,Single Vision,Transitions,"Brooklyn, NY",Intake,35.62,0
+HIST-1108,Progressive,Blue Light,"Manhattan, NY",Intake,31.09,0
+HIST-1109,Single Vision,None,Online,QC,11.58,0
+HIST-1110,Single Vision,Blue Light,"Brooklyn, NY",Inventory Check,14.35,0
+HIST-1111,Plano,Anti-Reflective,Online,QC,64.24,1
+HIST-1112,Progressive,Blue Light,"Brooklyn, NY",Shipped,79.51,1
+HIST-1113,Single Vision,Anti-Reflective,"Queens, NY",Intake,7.67,0
+HIST-1114,Single Vision,Anti-Reflective,"Brooklyn, NY",QC,36.92,0
+HIST-1115,Single Vision,Blue Light,"Queens, NY",QC,11.52,0
+HIST-1116,Plano,Anti-Reflective,Online,Intake,36.63,0
+HIST-1117,Progressive,Anti-Reflective,"Brooklyn, NY",Intake,15.45,0
+HIST-1118,Plano,Blue Light,Online,Intake,27.2,0
+HIST-1119,Progressive,Blue Light,Online,QC,15.48,0
+HIST-1120,Progressive,Blue Light,"Brooklyn, NY",Intake,26.28,0
+HIST-1121,Plano,None,"Queens, NY",Shipped,9.23,0
+HIST-1122,Progressive,Transitions,"Queens, NY",Inventory Check,87.68,1
+HIST-1123,Progressive,None,Online,Processing,35.07,0
+HIST-1124,Single Vision,Blue Light,Online,QC,39.11,0
+HIST-1125,Plano,None,Online,Intake,15.63,0
+HIST-1126,Progressive,None,Online,QC,19.85,0
+HIST-1127,Progressive,Transitions,"Brooklyn, NY",Inventory Check,21.36,0
+HIST-1128,Progressive,Transitions,Online,Intake,8.69,0
+HIST-1129,Single Vision,Anti-Reflective,"Queens, NY",Shipped,3.09,0
+HIST-1130,Single Vision,None,Online,Intake,28.75,0
+HIST-1131,Plano,Blue Light,"Queens, NY",QC,61.74,1
+HIST-1132,Plano,Anti-Reflective,Online,Inventory Check,55.82,1
+HIST-1133,Single Vision,None,"Queens, NY",QC,28.86,0
+HIST-1134,Single Vision,Blue Light,"Queens, NY",Shipped,38.81,0
+HIST-1135,Single Vision,Transitions,Online,Processing,33.24,0
+HIST-1136,Progressive,Anti-Reflective,"Manhattan, NY",Shipped,42.04,0
+HIST-1137,Progressive,None,"Queens, NY",QC,65.12,0
+HIST-1138,Plano,Anti-Reflective,Online,Intake,17.8,0
+HIST-1139,Progressive,None,Online,Intake,40.43,0
+HIST-1140,Plano,Anti-Reflective,Online,Inventory Check,12.14,0
+HIST-1141,Progressive,Blue Light,Online,Intake,81.64,1
+HIST-1142,Plano,Transitions,"Queens, NY",QC,51.79,1
+HIST-1143,Plano,Blue Light,"Manhattan, NY",Intake,22.15,0
+HIST-1144,Plano,None,Online,Inventory Check,42.17,0
+HIST-1145,Single Vision,Blue Light,"Brooklyn, NY",Processing,29.39,0
+HIST-1146,Progressive,Anti-Reflective,"Manhattan, NY",Inventory Check,16.54,0
+HIST-1147,Plano,Anti-Reflective,Online,Shipped,11.19,0
+HIST-1148,Progressive,Transitions,"Queens, NY",Intake,79.83,1
+HIST-1149,Progressive,Anti-Reflective,"Brooklyn, NY",QC,96.13,1
+HIST-1150,Progressive,Blue Light,Online,Processing,29.75,0
+HIST-1151,Single Vision,Transitions,"Queens, NY",Shipped,23.38,0
+HIST-1152,Single Vision,Transitions,"Queens, NY",Intake,38.41,0
+HIST-1153,Plano,None,Online,Processing,51.79,1
+HIST-1154,Single Vision,Anti-Reflective,"Queens, NY",Inventory Check,45.18,0
+HIST-1155,Plano,None,"Queens, NY",QC,8.19,0
+HIST-1156,Progressive,Blue Light,Online,Inventory Check,25.58,0
+HIST-1157,Progressive,Blue Light,"Manhattan, NY",Processing,103.08,1
+HIST-1158,Progressive,Blue Light,"Brooklyn, NY",QC,99.17,1
+HIST-1159,Plano,Transitions,"Queens, NY",Intake,41.0,0
+HIST-1160,Plano,None,Online,Processing,48.11,1
+HIST-1161,Plano,Blue Light,"Brooklyn, NY",Inventory Check,32.08,0
+HIST-1162,Plano,Blue Light,"Manhattan, NY",Intake,39.0,0
+HIST-1163,Plano,Blue Light,Online,Intake,18.28,0
+HIST-1164,Progressive,Transitions,"Brooklyn, NY",Intake,24.73,0
+HIST-1165,Progressive,Transitions,"Queens, NY",Shipped,43.39,0
+HIST-1166,Single Vision,Transitions,"Brooklyn, NY",QC,49.51,1
+HIST-1167,Plano,Blue Light,"Manhattan, NY",QC,34.08,0
+HIST-1168,Plano,Blue Light,"Queens, NY",Intake,21.5,0
+HIST-1169,Single Vision,Transitions,"Brooklyn, NY",Inventory Check,41.35,0
+HIST-1170,Single Vision,None,"Queens, NY",Inventory Check,54.28,1
+HIST-1171,Single Vision,None,"Manhattan, NY",Shipped,19.2,0
+HIST-1172,Progressive,Anti-Reflective,"Brooklyn, NY",Processing,77.82,1
+HIST-1173,Progressive,Anti-Reflective,"Brooklyn, NY",Intake,13.32,0
+HIST-1174,Single Vision,Blue Light,"Brooklyn, NY",Inventory Check,13.07,0
+HIST-1175,Progressive,None,"Brooklyn, NY",QC,45.63,0
+HIST-1176,Progressive,Anti-Reflective,"Brooklyn, NY",Shipped,31.97,0
+HIST-1177,Single Vision,None,Online,QC,32.8,0
+HIST-1178,Progressive,None,"Brooklyn, NY",Processing,49.17,0
+HIST-1179,Plano,Blue Light,Online,Shipped,32.93,0
+HIST-1180,Plano,Transitions,"Brooklyn, NY",Intake,54.06,1
+HIST-1181,Plano,Anti-Reflective,Online,QC,67.84,1
+HIST-1182,Progressive,Transitions,"Brooklyn, NY",Processing,50.17,0
+HIST-1183,Single Vision,Transitions,"Brooklyn, NY",Intake,44.51,0
+HIST-1184,Single Vision,Blue Light,"Manhattan, NY",Shipped,13.93,0
+HIST-1185,Plano,Blue Light,"Brooklyn, NY",QC,39.05,0
+HIST-1186,Plano,None,"Queens, NY",Shipped,12.24,0
+HIST-1187,Plano,Anti-Reflective,"Manhattan, NY",QC,27.61,0
+HIST-1188,Progressive,None,"Queens, NY",Shipped,18.88,0
+HIST-1189,Plano,None,"Queens, NY",Intake,15.02,0
+HIST-1190,Progressive,Blue Light,"Queens, NY",Intake,14.3,0
+HIST-1191,Plano,Transitions,"Brooklyn, NY",Inventory Check,52.57,1
+HIST-1192,Single Vision,Anti-Reflective,Online,QC,33.03,0
+HIST-1193,Progressive,None,"Brooklyn, NY",Inventory Check,16.86,0
+HIST-1194,Plano,None,"Queens, NY",QC,43.6,0
+HIST-1195,Progressive,Anti-Reflective,"Brooklyn, NY",Processing,51.18,0
+HIST-1196,Progressive,Blue Light,"Brooklyn, NY",Inventory Check,39.23,0
+HIST-1197,Single Vision,Anti-Reflective,"Queens, NY",Inventory Check,50.94,1
+HIST-1198,Progressive,Blue Light,"Brooklyn, NY",Intake,45.34,0
+HIST-1199,Single Vision,Transitions,"Manhattan, NY",Shipped,37.73,0
+HIST-1200,Progressive,None,Online,Intake,34.15,0
+HIST-1201,Single Vision,Blue Light,Online,Shipped,28.61,0
+HIST-1202,Progressive,None,Online,Intake,67.2,0
+HIST-1203,Plano,Transitions,"Queens, NY",Intake,22.42,0
+HIST-1204,Progressive,Transitions,"Brooklyn, NY",QC,86.23,1
+HIST-1205,Single Vision,None,"Brooklyn, NY",Shipped,33.56,0
+HIST-1206,Progressive,Blue Light,"Manhattan, NY",Inventory Check,9.34,0
+HIST-1207,Single Vision,Anti-Reflective,"Brooklyn, NY",Inventory Check,59.27,1
+HIST-1208,Progressive,Transitions,"Queens, NY",Processing,21.89,0
+HIST-1209,Progressive,Blue Light,"Brooklyn, NY",Processing,54.6,0
+HIST-1210,Single Vision,Blue Light,"Queens, NY",Intake,47.22,0
+HIST-1211,Single Vision,Transitions,Online,Shipped,39.34,0
+HIST-1212,Single Vision,Transitions,"Manhattan, NY",Processing,54.7,1
+HIST-1213,Progressive,None,"Queens, NY",Intake,34.66,0
+HIST-1214,Single Vision,Transitions,Online,Shipped,28.06,0
+HIST-1215,Progressive,Blue Light,Online,QC,74.89,1
+HIST-1216,Plano,Blue Light,"Brooklyn, NY",Processing,17.58,0
+HIST-1217,Plano,Anti-Reflective,"Queens, NY",Intake,31.19,0
+HIST-1218,Progressive,Blue Light,Online,Inventory Check,61.21,0
+HIST-1219,Progressive,Transitions,"Queens, NY",Inventory Check,65.93,0
+HIST-1220,Plano,None,Online,Shipped,18.44,0
+HIST-1221,Single Vision,Anti-Reflective,"Queens, NY",QC,24.35,0
+HIST-1222,Progressive,None,"Brooklyn, NY",Processing,78.42,1
+HIST-1223,Single Vision,Anti-Reflective,"Manhattan, NY",Shipped,44.31,0
+HIST-1224,Progressive,None,Online,Processing,58.22,0
+HIST-1225,Progressive,Transitions,"Manhattan, NY",Shipped,31.52,0
+HIST-1226,Progressive,Anti-Reflective,"Queens, NY",Shipped,87.01,1
+HIST-1227,Progressive,Transitions,Online,Inventory Check,77.93,1
+HIST-1228,Single Vision,Blue Light,"Brooklyn, NY",QC,57.58,1
+HIST-1229,Plano,None,"Queens, NY",Intake,35.96,0
+HIST-1230,Plano,Anti-Reflective,Online,Intake,52.91,1
+HIST-1231,Progressive,Blue Light,"Brooklyn, NY",QC,14.86,0
+HIST-1232,Single Vision,Blue Light,"Manhattan, NY",Intake,15.66,0
+HIST-1233,Plano,Blue Light,"Manhattan, NY",Inventory Check,12.12,0
+HIST-1234,Progressive,Anti-Reflective,Online,QC,63.2,0
+HIST-1235,Single Vision,Anti-Reflective,Online,Intake,43.54,0
+HIST-1236,Single Vision,None,"Manhattan, NY",QC,38.2,0
+HIST-1237,Progressive,None,"Manhattan, NY",Inventory Check,17.06,0
+HIST-1238,Progressive,Anti-Reflective,Online,Inventory Check,54.29,0
+HIST-1239,Progressive,None,"Brooklyn, NY",QC,69.31,0
+HIST-1240,Progressive,Blue Light,"Brooklyn, NY",Processing,82.95,1
+HIST-1241,Plano,None,"Queens, NY",Inventory Check,6.27,0
+HIST-1242,Plano,Anti-Reflective,Online,QC,45.89,0
+HIST-1243,Progressive,None,"Queens, NY",Inventory Check,2.58,0
+HIST-1244,Single Vision,Blue Light,"Queens, NY",Shipped,30.89,0
+HIST-1245,Progressive,Blue Light,"Brooklyn, NY",Inventory Check,33.94,0
+HIST-1246,Single Vision,Blue Light,"Queens, NY",Intake,47.84,0
+HIST-1247,Progressive,Transitions,Online,Processing,96.6,1
+HIST-1248,Plano,Blue Light,"Brooklyn, NY",QC,24.01,0
+HIST-1249,Plano,Blue Light,"Queens, NY",Intake,10.63,0
+HIST-1250,Progressive,Transitions,Online,Inventory Check,60.43,0
+HIST-1251,Single Vision,Blue Light,Online,Processing,46.04,0
+HIST-1252,Plano,Transitions,"Queens, NY",Shipped,51.57,1
+HIST-1253,Single Vision,Anti-Reflective,Online,Intake,6.86,0
+HIST-1254,Plano,Blue Light,"Queens, NY",QC,57.38,1
+HIST-1255,Progressive,Blue Light,"Queens, NY",QC,80.04,1
+HIST-1256,Progressive,Blue Light,"Queens, NY",Inventory Check,78.45,1
+HIST-1257,Single Vision,Transitions,Online,Shipped,14.47,0
+HIST-1258,Plano,Transitions,"Manhattan, NY",Shipped,26.05,0
+HIST-1259,Progressive,Anti-Reflective,"Brooklyn, NY",Inventory Check,75.73,1
+HIST-1260,Plano,Transitions,"Brooklyn, NY",Processing,54.21,1
+HIST-1261,Progressive,Blue Light,"Manhattan, NY",Inventory Check,71.58,0
+HIST-1262,Single Vision,Anti-Reflective,"Manhattan, NY",Inventory Check,41.17,0
+HIST-1263,Plano,Blue Light,Online,Shipped,16.78,0
+HIST-1264,Single Vision,Blue Light,Online,QC,50.89,1
+HIST-1265,Single Vision,Anti-Reflective,"Queens, NY",Intake,31.78,0
+HIST-1266,Progressive,Anti-Reflective,"Manhattan, NY",Inventory Check,47.06,0
+HIST-1267,Single Vision,None,"Manhattan, NY",Processing,22.61,0
+HIST-1268,Progressive,Blue Light,"Brooklyn, NY",Processing,32.09,0
+HIST-1269,Plano,Blue Light,"Brooklyn, NY",Shipped,41.23,0
+HIST-1270,Plano,Anti-Reflective,"Manhattan, NY",Shipped,45.92,0
+HIST-1271,Plano,None,"Brooklyn, NY",Intake,7.76,0
+HIST-1272,Plano,Blue Light,"Manhattan, NY",Shipped,29.28,0
+HIST-1273,Progressive,Blue Light,"Queens, NY",QC,36.68,0
+HIST-1274,Progressive,None,"Brooklyn, NY",Inventory Check,34.76,0
+HIST-1275,Single Vision,Blue Light,"Manhattan, NY",Processing,67.8,1
+HIST-1276,Progressive,Transitions,"Manhattan, NY",Processing,50.06,0
+HIST-1277,Single Vision,Blue Light,Online,Inventory Check,4.9,0
+HIST-1278,Progressive,Transitions,"Manhattan, NY",Inventory Check,79.63,1
+HIST-1279,Plano,Blue Light,"Manhattan, NY",Inventory Check,32.02,0
+HIST-1280,Progressive,Blue Light,Online,Intake,10.32,0
+HIST-1281,Progressive,Anti-Reflective,"Manhattan, NY",Shipped,27.41,0
+HIST-1282,Progressive,Transitions,"Queens, NY",Shipped,-0.9,0
+HIST-1283,Single Vision,Blue Light,"Queens, NY",QC,34.4,0
+HIST-1284,Single Vision,Blue Light,"Queens, NY",Intake,24.75,0
+HIST-1285,Plano,Blue Light,"Brooklyn, NY",Inventory Check,57.1,1
+HIST-1286,Progressive,Blue Light,"Manhattan, NY",Inventory Check,53.79,0
+HIST-1287,Single Vision,None,"Brooklyn, NY",Inventory Check,41.6,0
+HIST-1288,Plano,Transitions,"Manhattan, NY",Shipped,48.67,1
+HIST-1289,Plano,Blue Light,"Manhattan, NY",QC,68.95,1
+HIST-1290,Progressive,Transitions,"Queens, NY",QC,84.6,1
+HIST-1291,Progressive,Blue Light,"Brooklyn, NY",Shipped,51.46,0
+HIST-1292,Plano,Anti-Reflective,"Brooklyn, NY",Shipped,31.16,0
+HIST-1293,Plano,Transitions,"Manhattan, NY",Inventory Check,12.2,0
+HIST-1294,Single Vision,Anti-Reflective,"Brooklyn, NY",QC,30.76,0
+HIST-1295,Progressive,Transitions,"Brooklyn, NY",Inventory Check,49.09,0
+HIST-1296,Plano,Transitions,Online,Processing,67.75,1
+HIST-1297,Plano,Blue Light,"Queens, NY",Shipped,37.87,0
+HIST-1298,Progressive,Blue Light,"Manhattan, NY",Processing,84.44,1
+HIST-1299,Progressive,Blue Light,Online,Processing,69.39,0
+HIST-1300,Progressive,None,Online,QC,80.81,1
+HIST-1301,Progressive,None,"Queens, NY",Intake,27.55,0
+HIST-1302,Progressive,Transitions,"Manhattan, NY",Inventory Check,70.91,0
+HIST-1303,Plano,Blue Light,"Manhattan, NY",Intake,39.73,0
+HIST-1304,Single Vision,None,"Manhattan, NY",Inventory Check,4.67,0
+HIST-1305,Plano,Transitions,"Brooklyn, NY",Inventory Check,4.75,0
+HIST-1306,Single Vision,Transitions,Online,QC,49.76,1
+HIST-1307,Progressive,None,"Brooklyn, NY",Shipped,23.95,0
+HIST-1308,Single Vision,Anti-Reflective,Online,Inventory Check,49.42,1
+HIST-1309,Progressive,Transitions,"Manhattan, NY",Processing,84.58,1
+HIST-1310,Single Vision,Blue Light,"Queens, NY",QC,69.83,1
+HIST-1311,Single Vision,Transitions,"Queens, NY",Inventory Check,46.78,0
+HIST-1312,Plano,Transitions,"Queens, NY",Inventory Check,2.05,0
+HIST-1313,Progressive,Anti-Reflective,"Manhattan, NY",Shipped,82.69,1
+HIST-1314,Progressive,Blue Light,"Brooklyn, NY",QC,62.38,0
+HIST-1315,Progressive,Anti-Reflective,"Brooklyn, NY",Processing,42.72,0
+HIST-1316,Progressive,Blue Light,"Brooklyn, NY",Processing,64.96,0
+HIST-1317,Single Vision,Transitions,"Queens, NY",Inventory Check,26.6,0
+HIST-1318,Plano,Blue Light,"Brooklyn, NY",Processing,38.5,0
+HIST-1319,Progressive,Anti-Reflective,Online,Shipped,38.94,0
+HIST-1320,Progressive,Anti-Reflective,"Manhattan, NY",Shipped,71.9,0
+HIST-1321,Progressive,Blue Light,"Brooklyn, NY",Shipped,18.72,0
+HIST-1322,Plano,Anti-Reflective,"Manhattan, NY",Inventory Check,22.51,0
+HIST-1323,Single Vision,Anti-Reflective,Online,Intake,53.58,1
+HIST-1324,Single Vision,Transitions,"Manhattan, NY",Shipped,28.09,0
+HIST-1325,Plano,Transitions,"Queens, NY",Intake,30.78,0
+HIST-1326,Plano,Anti-Reflective,"Brooklyn, NY",Intake,30.6,0
+HIST-1327,Plano,None,"Brooklyn, NY",QC,18.11,0
+HIST-1328,Plano,Transitions,"Queens, NY",QC,41.33,0
+HIST-1329,Single Vision,Anti-Reflective,"Queens, NY",Intake,14.32,0
+HIST-1330,Plano,Anti-Reflective,"Manhattan, NY",Intake,53.53,1
+HIST-1331,Progressive,Transitions,Online,Inventory Check,22.93,0
+HIST-1332,Progressive,Anti-Reflective,"Brooklyn, NY",Intake,71.57,0
+HIST-1333,Single Vision,Anti-Reflective,"Manhattan, NY",Intake,2.39,0
+HIST-1334,Plano,None,"Manhattan, NY",Intake,18.42,0
+HIST-1335,Single Vision,None,"Manhattan, NY",Shipped,46.21,0
+HIST-1336,Plano,Blue Light,"Queens, NY",Inventory Check,15.37,0
+HIST-1337,Plano,Anti-Reflective,Online,Processing,31.16,0
+HIST-1338,Plano,Anti-Reflective,Online,Shipped,38.74,0
+HIST-1339,Plano,Transitions,"Queens, NY",QC,29.98,0
+HIST-1340,Plano,Transitions,"Manhattan, NY",Inventory Check,23.78,0
+HIST-1341,Progressive,None,Online,QC,45.77,0
+HIST-1342,Single Vision,Blue Light,"Brooklyn, NY",QC,60.77,1
+HIST-1343,Single Vision,None,"Queens, NY",QC,51.8,1
+HIST-1344,Single Vision,Anti-Reflective,Online,Inventory Check,50.23,1
+HIST-1345,Single Vision,Anti-Reflective,"Manhattan, NY",Intake,49.64,1
+HIST-1346,Single Vision,Anti-Reflective,Online,Inventory Check,38.97,0
+HIST-1347,Progressive,Transitions,"Queens, NY",Processing,36.52,0
+HIST-1348,Single Vision,Transitions,"Queens, NY",Inventory Check,23.32,0
+HIST-1349,Plano,Anti-Reflective,"Manhattan, NY",Intake,24.93,0
+HIST-1350,Plano,Transitions,"Queens, NY",Inventory Check,10.72,0
+HIST-1351,Plano,Anti-Reflective,Online,Shipped,43.39,0
+HIST-1352,Progressive,Transitions,Online,QC,26.52,0
+HIST-1353,Plano,Transitions,"Manhattan, NY",Shipped,66.41,1
+HIST-1354,Plano,None,"Brooklyn, NY",Intake,38.11,0
+HIST-1355,Plano,Anti-Reflective,"Brooklyn, NY",Inventory Check,4.3,0
+HIST-1356,Progressive,None,Online,QC,14.1,0
+HIST-1357,Single Vision,Blue Light,"Queens, NY",Intake,34.99,0
+HIST-1358,Progressive,Anti-Reflective,"Brooklyn, NY",Intake,44.78,0
+HIST-1359,Plano,Blue Light,"Queens, NY",Processing,61.21,1
+HIST-1360,Progressive,Anti-Reflective,"Manhattan, NY",Processing,77.95,1
+HIST-1361,Plano,None,"Brooklyn, NY",QC,25.19,0
+HIST-1362,Single Vision,Anti-Reflective,"Brooklyn, NY",QC,60.29,1
+HIST-1363,Single Vision,None,"Manhattan, NY",Inventory Check,48.74,1
+HIST-1364,Plano,Transitions,"Queens, NY",Intake,58.59,1
+HIST-1365,Progressive,None,"Manhattan, NY",Processing,6.84,0
+HIST-1366,Plano,Transitions,"Brooklyn, NY",Processing,25.29,0
+HIST-1367,Progressive,Blue Light,Online,Inventory Check,74.02,1
+HIST-1368,Single Vision,Blue Light,"Brooklyn, NY",Intake,33.43,0
+HIST-1369,Progressive,Transitions,"Queens, NY",Intake,62.2,0
+HIST-1370,Progressive,Transitions,"Manhattan, NY",Processing,55.13,0
+HIST-1371,Plano,Transitions,"Brooklyn, NY",Shipped,16.56,0
+HIST-1372,Single Vision,None,"Queens, NY",Inventory Check,25.62,0
+HIST-1373,Single Vision,Transitions,"Queens, NY",Processing,11.89,0
+HIST-1374,Progressive,Blue Light,"Brooklyn, NY",Inventory Check,10.65,0
+HIST-1375,Plano,Transitions,"Brooklyn, NY",Intake,9.57,0
+HIST-1376,Plano,Blue Light,Online,Intake,18.48,0
+HIST-1377,Single Vision,Anti-Reflective,"Manhattan, NY",QC,17.48,0
+HIST-1378,Single Vision,None,"Manhattan, NY",QC,28.71,0
+HIST-1379,Progressive,Blue Light,"Manhattan, NY",QC,55.6,0
+HIST-1380,Progressive,None,Online,Processing,77.57,1
+HIST-1381,Progressive,Blue Light,Online,Shipped,13.13,0
+HIST-1382,Plano,Anti-Reflective,Online,Processing,19.99,0
+HIST-1383,Plano,Transitions,"Manhattan, NY",Processing,36.47,0
+HIST-1384,Single Vision,Anti-Reflective,"Manhattan, NY",Shipped,8.63,0
+HIST-1385,Plano,Anti-Reflective,Online,Processing,61.49,1
+HIST-1386,Progressive,Transitions,"Manhattan, NY",Processing,39.59,0
+HIST-1387,Progressive,None,Online,Shipped,36.3,0
+HIST-1388,Plano,Transitions,"Brooklyn, NY",Processing,57.8,1
+HIST-1389,Single Vision,None,"Manhattan, NY",Processing,23.39,0
+HIST-1390,Plano,Transitions,"Queens, NY",QC,11.49,0
+HIST-1391,Plano,Anti-Reflective,Online,Processing,39.81,0
+HIST-1392,Plano,Anti-Reflective,"Queens, NY",Intake,27.86,0
+HIST-1393,Single Vision,None,"Manhattan, NY",Processing,23.32,0
+HIST-1394,Progressive,Blue Light,Online,Intake,44.32,0
+HIST-1395,Progressive,None,"Queens, NY",Intake,55.34,0
+HIST-1396,Progressive,None,"Manhattan, NY",Inventory Check,41.16,0
+HIST-1397,Progressive,Transitions,Online,Inventory Check,73.74,1
+HIST-1398,Single Vision,Transitions,Online,Intake,51.04,1
+HIST-1399,Progressive,Transitions,Online,Intake,59.51,0
+HIST-1400,Plano,None,"Brooklyn, NY",Shipped,9.68,0
+HIST-1401,Progressive,None,"Queens, NY",QC,54.05,0
+HIST-1402,Plano,Transitions,"Brooklyn, NY",Processing,28.22,0
+HIST-1403,Plano,Blue Light,"Brooklyn, NY",Inventory Check,17.44,0
+HIST-1404,Single Vision,Anti-Reflective,"Queens, NY",Inventory Check,31.28,0
+HIST-1405,Single Vision,Transitions,Online,Inventory Check,31.71,0
+HIST-1406,Plano,Anti-Reflective,"Manhattan, NY",QC,31.99,0
+HIST-1407,Plano,None,"Queens, NY",Intake,21.7,0
+HIST-1408,Progressive,Transitions,Online,QC,52.69,0
+HIST-1409,Single Vision,None,"Manhattan, NY",Processing,9.12,0
+HIST-1410,Progressive,Transitions,"Brooklyn, NY",Shipped,18.09,0
+HIST-1411,Progressive,None,Online,Shipped,18.28,0
+HIST-1412,Plano,Anti-Reflective,"Queens, NY",Intake,26.79,0
+HIST-1413,Single Vision,Transitions,"Brooklyn, NY",Inventory Check,19.1,0
+HIST-1414,Plano,Blue Light,Online,Inventory Check,42.72,0
+HIST-1415,Single Vision,None,"Queens, NY",Shipped,17.29,0
+HIST-1416,Progressive,Blue Light,"Queens, NY",Shipped,32.29,0
+HIST-1417,Plano,None,"Manhattan, NY",QC,67.11,1
+HIST-1418,Single Vision,Anti-Reflective,"Manhattan, NY",Inventory Check,48.75,1
+HIST-1419,Plano,Transitions,Online,Inventory Check,32.8,0
+HIST-1420,Progressive,Transitions,Online,Intake,63.61,0
+HIST-1421,Single Vision,Transitions,"Queens, NY",Processing,40.45,0
+HIST-1422,Plano,None,Online,Processing,54.88,1
+HIST-1423,Progressive,Anti-Reflective,Online,Processing,40.16,0
+HIST-1424,Single Vision,Transitions,"Queens, NY",Intake,8.18,0
+HIST-1425,Progressive,None,"Brooklyn, NY",Inventory Check,27.62,0
+HIST-1426,Progressive,Anti-Reflective,"Manhattan, NY",Processing,28.69,0
+HIST-1427,Plano,Blue Light,"Queens, NY",Intake,30.73,0
+HIST-1428,Single Vision,None,Online,Processing,49.11,1
+HIST-1429,Single Vision,None,"Brooklyn, NY",Inventory Check,20.4,0
+HIST-1430,Single Vision,Transitions,"Brooklyn, NY",Intake,47.69,0
+HIST-1431,Progressive,Anti-Reflective,Online,Intake,17.51,0
+HIST-1432,Single Vision,None,"Queens, NY",Processing,55.38,1
+HIST-1433,Single Vision,Anti-Reflective,"Brooklyn, NY",Shipped,37.12,0
+HIST-1434,Single Vision,Transitions,"Queens, NY",Inventory Check,33.89,0
+HIST-1435,Progressive,Transitions,"Manhattan, NY",Intake,74.75,1
+HIST-1436,Single Vision,Transitions,"Queens, NY",QC,24.49,0
+HIST-1437,Single Vision,Anti-Reflective,"Queens, NY",Intake,53.9,1
+HIST-1438,Progressive,Anti-Reflective,"Manhattan, NY",QC,40.82,0
+HIST-1439,Single Vision,Transitions,Online,Intake,19.37,0
+HIST-1440,Single Vision,None,"Queens, NY",Processing,24.34,0
+HIST-1441,Progressive,Anti-Reflective,Online,Intake,-0.78,0
+HIST-1442,Progressive,Anti-Reflective,"Brooklyn, NY",Intake,83.03,1
+HIST-1443,Progressive,Transitions,Online,QC,23.38,0
+HIST-1444,Progressive,None,"Queens, NY",Intake,35.59,0
+HIST-1445,Single Vision,Blue Light,Online,Shipped,44.49,0
+HIST-1446,Plano,None,"Queens, NY",QC,44.64,0
+HIST-1447,Single Vision,Transitions,"Brooklyn, NY",QC,46.28,0
+HIST-1448,Plano,Anti-Reflective,"Brooklyn, NY",Intake,46.65,0
+HIST-1449,Single Vision,Transitions,"Queens, NY",Shipped,37.71,0
+HIST-1450,Progressive,Anti-Reflective,"Queens, NY",Inventory Check,73.33,1
+HIST-1451,Plano,None,"Brooklyn, NY",Processing,42.61,0
+HIST-1452,Plano,None,Online,QC,38.45,0
+HIST-1453,Single Vision,Blue Light,"Manhattan, NY",Processing,63.87,1
+HIST-1454,Single Vision,Anti-Reflective,"Brooklyn, NY",Intake,44.81,0
+HIST-1455,Single Vision,Transitions,"Queens, NY",QC,69.3,1
+HIST-1456,Single Vision,Transitions,"Manhattan, NY",Processing,29.16,0
+HIST-1457,Single Vision,Blue Light,"Brooklyn, NY",Shipped,34.97,0
+HIST-1458,Single Vision,None,Online,Intake,50.21,1
+HIST-1459,Progressive,Blue Light,"Brooklyn, NY",Shipped,40.97,0
+HIST-1460,Progressive,Blue Light,"Manhattan, NY",QC,57.64,0
+HIST-1461,Single Vision,Anti-Reflective,"Manhattan, NY",Intake,49.15,1
+HIST-1462,Plano,Blue Light,"Brooklyn, NY",Processing,20.59,0
+HIST-1463,Plano,Blue Light,"Brooklyn, NY",Inventory Check,29.65,0
+HIST-1464,Progressive,None,"Manhattan, NY",Processing,30.73,0
+HIST-1465,Plano,Transitions,"Queens, NY",QC,58.45,1
+HIST-1466,Single Vision,Transitions,"Brooklyn, NY",Shipped,34.75,0
+HIST-1467,Single Vision,Anti-Reflective,"Queens, NY",Processing,64.35,1
+HIST-1468,Plano,Blue Light,"Queens, NY",QC,20.33,0
+HIST-1469,Plano,None,"Manhattan, NY",Intake,10.72,0
+HIST-1470,Progressive,None,"Queens, NY",Inventory Check,35.31,0
+HIST-1471,Single Vision,None,"Manhattan, NY",Processing,47.41,0
+HIST-1472,Progressive,Anti-Reflective,"Brooklyn, NY",Inventory Check,84.67,1
+HIST-1473,Single Vision,Blue Light,"Queens, NY",Inventory Check,4.02,0
+HIST-1474,Progressive,Anti-Reflective,"Brooklyn, NY",QC,20.18,0
+HIST-1475,Single Vision,Anti-Reflective,"Manhattan, NY",Inventory Check,48.24,1
+HIST-1476,Plano,None,"Queens, NY",Intake,-2.01,0
+HIST-1477,Plano,Transitions,"Manhattan, NY",Intake,59.69,1
+HIST-1478,Progressive,None,"Brooklyn, NY",QC,20.81,0
+HIST-1479,Plano,Transitions,Online,Intake,24.19,0
+HIST-1480,Progressive,Anti-Reflective,"Manhattan, NY",Processing,34.83,0
+HIST-1481,Plano,Anti-Reflective,"Queens, NY",QC,30.86,0
+HIST-1482,Progressive,Transitions,"Manhattan, NY",QC,35.41,0
+HIST-1483,Plano,None,Online,Processing,36.52,0
+HIST-1484,Plano,Blue Light,Online,Processing,17.82,0
+HIST-1485,Progressive,None,Online,Shipped,30.46,0
+HIST-1486,Single Vision,Anti-Reflective,"Brooklyn, NY",Inventory Check,37.25,0
+HIST-1487,Plano,None,"Manhattan, NY",Shipped,47.75,0
+HIST-1488,Progressive,Anti-Reflective,"Manhattan, NY",Inventory Check,59.02,0
+HIST-1489,Plano,Blue Light,"Brooklyn, NY",Processing,68.73,1
+HIST-1490,Single Vision,Transitions,"Queens, NY",Inventory Check,25.21,0
+HIST-1491,Single Vision,Anti-Reflective,"Brooklyn, NY",Shipped,28.13,0
+HIST-1492,Plano,Anti-Reflective,"Manhattan, NY",Processing,63.49,1
+HIST-1493,Progressive,None,"Brooklyn, NY",Inventory Check,51.61,0
+HIST-1494,Single Vision,Blue Light,"Brooklyn, NY",Processing,56.35,1
+HIST-1495,Progressive,Blue Light,"Queens, NY",Inventory Check,90.34,1
+HIST-1496,Progressive,Transitions,"Queens, NY",Inventory Check,65.06,0
+HIST-1497,Plano,Blue Light,"Manhattan, NY",Shipped,47.81,0
+HIST-1498,Plano,Blue Light,"Manhattan, NY",Inventory Check,51.54,1
+HIST-1499,Plano,Transitions,"Brooklyn, NY",Inventory Check,43.99,0
+HIST-1500,Plano,Anti-Reflective,"Brooklyn, NY",QC,20.16,0
+HIST-1501,Progressive,Anti-Reflective,"Brooklyn, NY",Processing,45.98,0
+HIST-1502,Single Vision,Blue Light,"Queens, NY",Intake,37.55,0
+HIST-1503,Progressive,Transitions,"Manhattan, NY",QC,55.49,0
+HIST-1504,Single Vision,Transitions,"Manhattan, NY",Inventory Check,33.64,0
+HIST-1505,Single Vision,Blue Light,"Brooklyn, NY",Processing,22.1,0
+HIST-1506,Progressive,Anti-Reflective,"Brooklyn, NY",Shipped,91.15,1
+HIST-1507,Progressive,Transitions,"Brooklyn, NY",QC,96.53,1
+HIST-1508,Single Vision,None,"Brooklyn, NY",Processing,23.02,0
+HIST-1509,Plano,Blue Light,"Queens, NY",Processing,23.67,0
+HIST-1510,Progressive,Anti-Reflective,"Brooklyn, NY",Processing,15.36,0
+HIST-1511,Plano,Transitions,"Manhattan, NY",Intake,0.21,0
+HIST-1512,Progressive,None,Online,Intake,24.2,0
+HIST-1513,Progressive,Blue Light,"Brooklyn, NY",Shipped,35.15,0
+HIST-1514,Progressive,Blue Light,"Manhattan, NY",QC,13.92,0
+HIST-1515,Progressive,None,"Manhattan, NY",Intake,7.7,0
+HIST-1516,Plano,Transitions,"Manhattan, NY",Shipped,5.45,0
+HIST-1517,Plano,Transitions,Online,Shipped,53.07,1
+HIST-1518,Single Vision,Transitions,"Brooklyn, NY",Shipped,36.17,0
+HIST-1519,Plano,Anti-Reflective,"Brooklyn, NY",QC,35.38,0
+HIST-1520,Single Vision,Anti-Reflective,"Brooklyn, NY",QC,15.48,0
+HIST-1521,Plano,Anti-Reflective,"Queens, NY",Processing,62.72,1
+HIST-1522,Progressive,Transitions,"Queens, NY",Processing,55.12,0
+HIST-1523,Plano,Transitions,"Brooklyn, NY",QC,24.05,0
+HIST-1524,Single Vision,None,"Brooklyn, NY",Processing,63.74,1
+HIST-1525,Progressive,Transitions,Online,Shipped,48.88,0
+HIST-1526,Progressive,Transitions,"Manhattan, NY",Shipped,58.7,0
+HIST-1527,Single Vision,Transitions,"Queens, NY",Inventory Check,6.11,0
+HIST-1528,Progressive,Blue Light,"Brooklyn, NY",Processing,78.19,1
+HIST-1529,Progressive,None,"Manhattan, NY",Inventory Check,28.84,0
+HIST-1530,Progressive,Blue Light,Online,Shipped,54.23,0
+HIST-1531,Single Vision,Transitions,Online,Shipped,57.42,1
+HIST-1532,Plano,Anti-Reflective,"Brooklyn, NY",Processing,56.96,1
+HIST-1533,Plano,None,"Manhattan, NY",Inventory Check,40.14,0
+HIST-1534,Single Vision,Anti-Reflective,"Brooklyn, NY",QC,10.64,0
+HIST-1535,Progressive,Transitions,Online,Intake,58.06,0
+HIST-1536,Progressive,Transitions,"Manhattan, NY",QC,57.4,0
+HIST-1537,Progressive,None,"Queens, NY",Intake,26.2,0
+HIST-1538,Plano,Anti-Reflective,"Manhattan, NY",Inventory Check,38.46,0
+HIST-1539,Progressive,None,"Brooklyn, NY",QC,81.25,1
+HIST-1540,Single Vision,Anti-Reflective,"Queens, NY",Shipped,46.19,0
+HIST-1541,Plano,Blue Light,Online,QC,57.09,1
+HIST-1542,Progressive,Transitions,"Brooklyn, NY",Intake,50.01,0
+HIST-1543,Progressive,Blue Light,"Queens, NY",Intake,42.6,0
+HIST-1544,Progressive,Blue Light,"Queens, NY",Processing,76.6,1
+HIST-1545,Single Vision,Anti-Reflective,"Manhattan, NY",Intake,53.66,1
+HIST-1546,Plano,Transitions,"Queens, NY",Inventory Check,46.71,0
+HIST-1547,Progressive,Blue Light,Online,QC,45.62,0
+HIST-1548,Plano,Anti-Reflective,"Queens, NY",Inventory Check,44.48,0
+HIST-1549,Progressive,Blue Light,"Queens, NY",Inventory Check,81.07,1
+HIST-1550,Single Vision,Blue Light,"Brooklyn, NY",QC,23.13,0
+HIST-1551,Single Vision,Blue Light,"Brooklyn, NY",Inventory Check,27.4,0
+HIST-1552,Progressive,Transitions,"Queens, NY",Processing,39.55,0
+HIST-1553,Progressive,None,"Brooklyn, NY",QC,82.22,1
+HIST-1554,Progressive,Blue Light,Online,Intake,72.74,1
+HIST-1555,Single Vision,Blue Light,Online,Shipped,61.36,1
+HIST-1556,Single Vision,Blue Light,"Manhattan, NY",Intake,33.17,0
+HIST-1557,Single Vision,Blue Light,"Brooklyn, NY",Intake,24.84,0
+HIST-1558,Single Vision,Anti-Reflective,Online,Intake,10.0,0
+HIST-1559,Progressive,Transitions,Online,QC,37.6,0
+HIST-1560,Progressive,None,"Queens, NY",Shipped,20.09,0
+HIST-1561,Plano,Anti-Reflective,"Manhattan, NY",Processing,27.38,0
+HIST-1562,Progressive,Anti-Reflective,"Brooklyn, NY",Intake,26.39,0
+HIST-1563,Plano,Blue Light,Online,Inventory Check,29.05,0
+HIST-1564,Progressive,Anti-Reflective,"Manhattan, NY",QC,20.43,0
+HIST-1565,Single Vision,None,"Manhattan, NY",Intake,22.99,0
+HIST-1566,Single Vision,Transitions,"Queens, NY",Shipped,40.25,0
+HIST-1567,Single Vision,None,"Brooklyn, NY",Intake,34.67,0
+HIST-1568,Progressive,None,"Queens, NY",QC,63.32,0
+HIST-1569,Single Vision,Blue Light,Online,Intake,37.61,0
+HIST-1570,Plano,Anti-Reflective,Online,Intake,34.32,0
+HIST-1571,Progressive,None,"Brooklyn, NY",QC,21.45,0
+HIST-1572,Plano,Anti-Reflective,"Queens, NY",QC,25.7,0
+HIST-1573,Single Vision,Transitions,"Queens, NY",Inventory Check,6.43,0
+HIST-1574,Single Vision,Transitions,"Manhattan, NY",Intake,41.29,0
+HIST-1575,Plano,None,"Queens, NY",Inventory Check,32.13,0
+HIST-1576,Progressive,Transitions,"Brooklyn, NY",Intake,78.71,1
+HIST-1577,Progressive,Blue Light,"Queens, NY",QC,76.6,1
+HIST-1578,Single Vision,None,"Manhattan, NY",Inventory Check,24.86,0
+HIST-1579,Plano,Blue Light,"Brooklyn, NY",Processing,55.0,1
+HIST-1580,Progressive,Blue Light,Online,QC,87.91,1
+HIST-1581,Single Vision,Anti-Reflective,"Brooklyn, NY",Inventory Check,15.72,0
+HIST-1582,Progressive,Transitions,"Manhattan, NY",Shipped,34.31,0
+HIST-1583,Single Vision,Anti-Reflective,Online,QC,12.37,0
+HIST-1584,Progressive,Blue Light,"Brooklyn, NY",Shipped,70.38,0
+HIST-1585,Plano,Anti-Reflective,"Queens, NY",Shipped,36.21,0
+HIST-1586,Single Vision,Transitions,"Manhattan, NY",QC,33.24,0
+HIST-1587,Plano,None,"Brooklyn, NY",Inventory Check,26.8,0
+HIST-1588,Progressive,Anti-Reflective,"Brooklyn, NY",QC,36.41,0
+HIST-1589,Plano,Anti-Reflective,Online,QC,54.74,1
+HIST-1590,Plano,Transitions,"Brooklyn, NY",QC,35.06,0
+HIST-1591,Plano,None,"Brooklyn, NY",QC,25.95,0
+HIST-1592,Single Vision,Blue Light,"Manhattan, NY",QC,59.25,1
+HIST-1593,Single Vision,Transitions,"Queens, NY",Shipped,48.48,1
+HIST-1594,Plano,Blue Light,Online,Intake,11.58,0
+HIST-1595,Single Vision,Blue Light,"Queens, NY",Processing,37.42,0
+HIST-1596,Single Vision,Transitions,"Manhattan, NY",QC,16.15,0
+HIST-1597,Progressive,Anti-Reflective,Online,Inventory Check,59.06,0
+HIST-1598,Progressive,None,"Brooklyn, NY",QC,47.2,0
+HIST-1599,Progressive,None,"Brooklyn, NY",Shipped,75.02,1
+HIST-1600,Progressive,Anti-Reflective,"Manhattan, NY",Inventory Check,15.42,0
+HIST-1601,Plano,Blue Light,Online,QC,77.04,1
+HIST-1602,Progressive,Transitions,"Queens, NY",Processing,47.64,0
+HIST-1603,Plano,Blue Light,"Queens, NY",Shipped,34.89,0
+HIST-1604,Plano,Blue Light,"Queens, NY",Inventory Check,61.3,1
+HIST-1605,Single Vision,Blue Light,"Brooklyn, NY",Processing,52.88,1
+HIST-1606,Plano,Transitions,"Queens, NY",QC,52.39,1
+HIST-1607,Single Vision,None,"Brooklyn, NY",Inventory Check,20.33,0
+HIST-1608,Progressive,Blue Light,"Manhattan, NY",Intake,59.65,0
+HIST-1609,Plano,None,"Queens, NY",QC,25.59,0
+HIST-1610,Single Vision,Transitions,"Manhattan, NY",Shipped,52.42,1
+HIST-1611,Progressive,None,Online,QC,49.03,0
+HIST-1612,Plano,None,"Brooklyn, NY",Processing,32.14,0
+HIST-1613,Progressive,Anti-Reflective,"Queens, NY",Shipped,52.09,0
+HIST-1614,Plano,Anti-Reflective,"Queens, NY",QC,20.84,0
+HIST-1615,Single Vision,None,Online,Intake,24.49,0
+HIST-1616,Single Vision,Anti-Reflective,"Queens, NY",Intake,25.49,0
+HIST-1617,Single Vision,None,"Manhattan, NY",Processing,46.17,0
+HIST-1618,Plano,Blue Light,Online,Shipped,28.32,0
+HIST-1619,Plano,Blue Light,"Manhattan, NY",Inventory Check,37.36,0
+HIST-1620,Single Vision,Transitions,Online,Intake,29.16,0
+HIST-1621,Plano,Blue Light,"Queens, NY",Processing,36.53,0
+HIST-1622,Progressive,None,"Brooklyn, NY",Processing,51.17,0
+HIST-1623,Plano,Anti-Reflective,"Brooklyn, NY",Processing,32.37,0
+HIST-1624,Progressive,Blue Light,"Brooklyn, NY",Shipped,71.97,0
+HIST-1625,Plano,Transitions,Online,Intake,22.69,0
+HIST-1626,Progressive,None,"Brooklyn, NY",Inventory Check,76.6,1
+HIST-1627,Plano,None,"Brooklyn, NY",Inventory Check,39.11,0
+HIST-1628,Plano,Transitions,"Brooklyn, NY",Inventory Check,37.07,0
+HIST-1629,Plano,Transitions,"Brooklyn, NY",Inventory Check,8.29,0
+HIST-1630,Single Vision,None,"Brooklyn, NY",Intake,8.14,0
+HIST-1631,Single Vision,Anti-Reflective,"Queens, NY",QC,35.88,0
+HIST-1632,Single Vision,Transitions,"Brooklyn, NY",Shipped,7.34,0
+HIST-1633,Single Vision,None,"Brooklyn, NY",Processing,57.48,1
+HIST-1634,Progressive,None,"Queens, NY",QC,37.07,0
+HIST-1635,Single Vision,Anti-Reflective,"Manhattan, NY",QC,59.06,1
+HIST-1636,Plano,Anti-Reflective,"Queens, NY",Processing,68.43,1
+HIST-1637,Single Vision,None,"Brooklyn, NY",Intake,28.83,0
+HIST-1638,Plano,None,"Queens, NY",Inventory Check,44.72,0
+HIST-1639,Progressive,Anti-Reflective,Online,Shipped,11.61,0
+HIST-1640,Plano,Blue Light,"Manhattan, NY",Intake,18.42,0
+HIST-1641,Single Vision,Transitions,"Brooklyn, NY",Processing,44.55,0
+HIST-1642,Plano,Transitions,"Queens, NY",Processing,16.49,0
+HIST-1643,Plano,None,"Manhattan, NY",Processing,37.01,0
+HIST-1644,Plano,Anti-Reflective,"Queens, NY",Processing,61.65,1
+HIST-1645,Single Vision,Transitions,"Queens, NY",Processing,29.27,0
+HIST-1646,Progressive,Transitions,"Queens, NY",Processing,53.77,0
+HIST-1647,Single Vision,Blue Light,"Manhattan, NY",Shipped,18.28,0
+HIST-1648,Plano,None,"Brooklyn, NY",Intake,45.4,0
+HIST-1649,Plano,Transitions,"Manhattan, NY",Intake,35.46,0
+HIST-1650,Plano,Transitions,"Manhattan, NY",Processing,41.1,0
+HIST-1651,Progressive,Anti-Reflective,Online,Shipped,45.93,0
+HIST-1652,Plano,None,"Manhattan, NY",Shipped,39.51,0
+HIST-1653,Single Vision,Transitions,"Manhattan, NY",Inventory Check,36.63,0
+HIST-1654,Single Vision,Transitions,"Queens, NY",Intake,15.86,0
+HIST-1655,Single Vision,Blue Light,"Queens, NY",Inventory Check,1.72,0
+HIST-1656,Progressive,Transitions,Online,QC,86.51,1
+HIST-1657,Single Vision,Blue Light,"Queens, NY",Shipped,29.51,0
+HIST-1658,Plano,Transitions,"Queens, NY",Shipped,45.58,0
+HIST-1659,Plano,Blue Light,Online,Inventory Check,30.62,0
+HIST-1660,Progressive,Transitions,Online,Shipped,10.59,0
+HIST-1661,Progressive,Anti-Reflective,"Manhattan, NY",Intake,44.54,0
+HIST-1662,Single Vision,Anti-Reflective,"Manhattan, NY",Processing,53.24,1
+HIST-1663,Progressive,Blue Light,"Brooklyn, NY",QC,72.58,1
+HIST-1664,Plano,Transitions,"Brooklyn, NY",Inventory Check,7.24,0
+HIST-1665,Single Vision,Anti-Reflective,"Brooklyn, NY",Shipped,6.98,0
+HIST-1666,Single Vision,Transitions,"Brooklyn, NY",Processing,65.89,1
+HIST-1667,Progressive,Transitions,"Manhattan, NY",Inventory Check,76.06,1
+HIST-1668,Plano,Anti-Reflective,"Queens, NY",Inventory Check,42.18,0
+HIST-1669,Progressive,None,"Manhattan, NY",QC,32.8,0
+HIST-1670,Plano,Transitions,"Manhattan, NY",Shipped,8.77,0
+HIST-1671,Plano,None,"Brooklyn, NY",Intake,20.62,0
+HIST-1672,Plano,None,Online,Shipped,28.89,0
+HIST-1673,Plano,Transitions,"Manhattan, NY",QC,58.38,1
+HIST-1674,Plano,None,Online,Inventory Check,19.45,0
+HIST-1675,Single Vision,Blue Light,Online,Processing,30.79,0
+HIST-1676,Plano,None,"Brooklyn, NY",QC,43.38,0
+HIST-1677,Progressive,None,"Manhattan, NY",QC,62.8,0
+HIST-1678,Progressive,Blue Light,"Queens, NY",QC,81.56,1
+HIST-1679,Progressive,Anti-Reflective,"Queens, NY",Shipped,47.55,0
+HIST-1680,Progressive,Blue Light,Online,Inventory Check,79.02,1
+HIST-1681,Plano,Anti-Reflective,Online,Inventory Check,9.48,0
+HIST-1682,Progressive,None,"Manhattan, NY",QC,70.92,0
+HIST-1683,Single Vision,Transitions,Online,Intake,3.14,0
+HIST-1684,Single Vision,None,Online,QC,45.74,0
+HIST-1685,Plano,None,"Manhattan, NY",QC,33.5,0
+HIST-1686,Plano,Blue Light,"Manhattan, NY",Intake,48.07,1
+HIST-1687,Plano,Anti-Reflective,"Manhattan, NY",Intake,26.31,0
+HIST-1688,Single Vision,None,"Queens, NY",QC,30.34,0
+HIST-1689,Plano,None,"Brooklyn, NY",Intake,32.72,0
+HIST-1690,Plano,Blue Light,"Queens, NY",Processing,30.42,0
+HIST-1691,Progressive,None,"Queens, NY",Inventory Check,26.8,0
+HIST-1692,Single Vision,Blue Light,"Queens, NY",Intake,55.84,1
+HIST-1693,Plano,Blue Light,Online,QC,52.02,1
+HIST-1694,Progressive,Transitions,"Brooklyn, NY",QC,21.82,0
+HIST-1695,Single Vision,Anti-Reflective,"Queens, NY",QC,60.4,1
+HIST-1696,Progressive,Anti-Reflective,"Queens, NY",Intake,41.78,0
+HIST-1697,Progressive,None,"Manhattan, NY",QC,34.42,0
+HIST-1698,Single Vision,Anti-Reflective,Online,Inventory Check,13.08,0
+HIST-1699,Progressive,Anti-Reflective,"Manhattan, NY",Inventory Check,79.98,1
+HIST-1700,Progressive,Anti-Reflective,"Brooklyn, NY",Intake,84.79,1
+HIST-1701,Plano,Transitions,"Brooklyn, NY",Shipped,62.95,1
+HIST-1702,Progressive,Blue Light,Online,Shipped,77.66,1
+HIST-1703,Plano,Blue Light,Online,Inventory Check,40.43,0
+HIST-1704,Plano,Transitions,Online,Shipped,3.25,0
+HIST-1705,Plano,Anti-Reflective,Online,Intake,42.48,0
+HIST-1706,Plano,None,"Brooklyn, NY",Inventory Check,15.34,0
+HIST-1707,Progressive,Blue Light,"Manhattan, NY",Shipped,23.08,0
+HIST-1708,Plano,Blue Light,"Queens, NY",Inventory Check,27.49,0
+HIST-1709,Plano,Blue Light,"Queens, NY",QC,20.74,0
+HIST-1710,Plano,Anti-Reflective,"Brooklyn, NY",Processing,64.95,1
+HIST-1711,Single Vision,Anti-Reflective,"Manhattan, NY",QC,55.9,1
+HIST-1712,Plano,Blue Light,Online,Processing,24.66,0
+HIST-1713,Single Vision,Anti-Reflective,"Brooklyn, NY",Inventory Check,49.25,1
+HIST-1714,Plano,None,Online,Processing,25.17,0
+HIST-1715,Progressive,Blue Light,"Brooklyn, NY",QC,35.18,0
+HIST-1716,Single Vision,Anti-Reflective,"Queens, NY",Processing,36.26,0
+HIST-1717,Progressive,None,Online,Shipped,26.18,0
+HIST-1718,Single Vision,Anti-Reflective,"Queens, NY",QC,55.25,1
+HIST-1719,Single Vision,None,"Manhattan, NY",Processing,19.27,0
+HIST-1720,Progressive,Transitions,"Queens, NY",QC,88.48,1
+HIST-1721,Plano,Transitions,Online,Inventory Check,6.92,0
+HIST-1722,Plano,Anti-Reflective,"Queens, NY",Intake,14.03,0
+HIST-1723,Single Vision,None,Online,Shipped,10.09,0
+HIST-1724,Plano,None,"Brooklyn, NY",Processing,44.87,0
+HIST-1725,Progressive,Blue Light,"Manhattan, NY",Inventory Check,65.85,0
+HIST-1726,Single Vision,Anti-Reflective,"Manhattan, NY",Intake,3.54,0
+HIST-1727,Progressive,Transitions,Online,Shipped,84.12,1
+HIST-1728,Single Vision,Anti-Reflective,Online,Shipped,30.33,0
+HIST-1729,Plano,Blue Light,"Queens, NY",QC,46.31,0
+HIST-1730,Progressive,Transitions,"Queens, NY",Inventory Check,22.48,0
+HIST-1731,Single Vision,Blue Light,"Queens, NY",QC,45.64,0
+HIST-1732,Progressive,Blue Light,"Brooklyn, NY",QC,87.23,1
+HIST-1733,Plano,Blue Light,"Manhattan, NY",QC,59.07,1
+HIST-1734,Plano,Transitions,Online,Inventory Check,17.37,0
+HIST-1735,Single Vision,Blue Light,"Queens, NY",Shipped,48.01,1
+HIST-1736,Single Vision,Anti-Reflective,"Manhattan, NY",Processing,18.77,0
+HIST-1737,Plano,Transitions,"Manhattan, NY",Processing,10.81,0
+HIST-1738,Single Vision,None,"Queens, NY",Processing,11.38,0
+HIST-1739,Single Vision,Anti-Reflective,"Brooklyn, NY",QC,29.44,0
+HIST-1740,Progressive,Blue Light,Online,Intake,37.39,0
+HIST-1741,Single Vision,None,"Queens, NY",QC,11.94,0
+HIST-1742,Progressive,Transitions,"Brooklyn, NY",Intake,89.97,1
+HIST-1743,Progressive,Transitions,"Manhattan, NY",Intake,24.68,0
+HIST-1744,Single Vision,Anti-Reflective,Online,QC,47.6,0
+HIST-1745,Plano,None,"Brooklyn, NY",Processing,32.01,0
+HIST-1746,Single Vision,Anti-Reflective,"Brooklyn, NY",Inventory Check,36.76,0
+HIST-1747,Single Vision,Blue Light,"Brooklyn, NY",QC,46.43,0
+HIST-1748,Plano,Transitions,"Manhattan, NY",Processing,54.66,1
+HIST-1749,Plano,Blue Light,"Brooklyn, NY",Intake,18.56,0
+HIST-1750,Plano,None,"Manhattan, NY",QC,33.58,0
+HIST-1751,Progressive,Transitions,"Manhattan, NY",Intake,60.48,0
+HIST-1752,Single Vision,Blue Light,"Brooklyn, NY",QC,54.78,1
+HIST-1753,Progressive,Anti-Reflective,"Manhattan, NY",Shipped,37.2,0
+HIST-1754,Progressive,Anti-Reflective,"Brooklyn, NY",Shipped,14.35,0
+HIST-1755,Progressive,Blue Light,Online,Intake,70.03,0
+HIST-1756,Plano,Anti-Reflective,"Brooklyn, NY",Shipped,56.17,1
+HIST-1757,Single Vision,Blue Light,"Brooklyn, NY",Shipped,45.24,0
+HIST-1758,Plano,Transitions,"Manhattan, NY",Shipped,18.32,0
+HIST-1759,Progressive,None,"Brooklyn, NY",Shipped,43.61,0
+HIST-1760,Single Vision,Anti-Reflective,"Brooklyn, NY",Inventory Check,5.11,0
+HIST-1761,Single Vision,Transitions,Online,Shipped,40.25,0
+HIST-1762,Single Vision,Blue Light,"Manhattan, NY",Shipped,36.88,0
+HIST-1763,Single Vision,Transitions,"Brooklyn, NY",QC,55.35,1
+HIST-1764,Progressive,Blue Light,"Brooklyn, NY",Shipped,19.9,0
+HIST-1765,Single Vision,Blue Light,"Brooklyn, NY",Inventory Check,51.83,1
+HIST-1766,Plano,Anti-Reflective,Online,Inventory Check,16.95,0
+HIST-1767,Plano,Anti-Reflective,Online,Intake,48.07,1
+HIST-1768,Plano,Transitions,Online,Intake,8.31,0
+HIST-1769,Progressive,Blue Light,"Manhattan, NY",Shipped,87.91,1
+HIST-1770,Progressive,Blue Light,"Queens, NY",Processing,55.41,0
+HIST-1771,Progressive,Anti-Reflective,"Manhattan, NY",QC,79.65,1
+HIST-1772,Progressive,Transitions,Online,Intake,72.99,1
+HIST-1773,Plano,None,"Manhattan, NY",Processing,14.38,0
+HIST-1774,Progressive,None,"Queens, NY",Shipped,41.1,0
+HIST-1775,Plano,Anti-Reflective,"Brooklyn, NY",Intake,24.51,0
+HIST-1776,Progressive,Blue Light,"Manhattan, NY",Inventory Check,22.98,0
+HIST-1777,Plano,Transitions,"Manhattan, NY",Intake,48.9,1
+HIST-1778,Single Vision,Transitions,"Brooklyn, NY",Shipped,32.98,0
+HIST-1779,Plano,Transitions,"Brooklyn, NY",Intake,53.21,1
+HIST-1780,Progressive,Transitions,"Brooklyn, NY",Inventory Check,72.8,1
+HIST-1781,Single Vision,Transitions,"Brooklyn, NY",Processing,42.44,0
+HIST-1782,Progressive,Anti-Reflective,"Manhattan, NY",Intake,68.75,0
+HIST-1783,Progressive,None,"Manhattan, NY",QC,27.86,0
+HIST-1784,Single Vision,Transitions,"Brooklyn, NY",Shipped,19.99,0
+HIST-1785,Plano,Transitions,"Manhattan, NY",Inventory Check,26.3,0
+HIST-1786,Progressive,Anti-Reflective,"Manhattan, NY",Inventory Check,14.51,0
+HIST-1787,Progressive,None,"Brooklyn, NY",QC,39.65,0
+HIST-1788,Plano,None,"Queens, NY",Inventory Check,51.66,1
+HIST-1789,Progressive,Anti-Reflective,Online,Intake,78.49,1
+HIST-1790,Plano,Blue Light,"Manhattan, NY",Intake,3.36,0
+HIST-1791,Plano,Anti-Reflective,"Queens, NY",Intake,27.62,0
+HIST-1792,Progressive,Transitions,Online,Intake,35.98,0
+HIST-1793,Single Vision,Anti-Reflective,"Queens, NY",Shipped,34.39,0
+HIST-1794,Single Vision,None,Online,Shipped,46.49,0
+HIST-1795,Progressive,Anti-Reflective,"Brooklyn, NY",Processing,29.81,0
+HIST-1796,Progressive,None,"Brooklyn, NY",QC,68.38,0
+HIST-1797,Progressive,None,"Brooklyn, NY",Processing,72.61,1
+HIST-1798,Progressive,None,"Queens, NY",QC,70.72,0
+HIST-1799,Plano,Transitions,"Brooklyn, NY",Intake,18.09,0
+HIST-1800,Progressive,Transitions,Online,Inventory Check,8.62,0
+HIST-1801,Progressive,Blue Light,"Manhattan, NY",Shipped,21.07,0
+HIST-1802,Progressive,Transitions,"Brooklyn, NY",Shipped,80.48,1
+HIST-1803,Progressive,Transitions,"Manhattan, NY",Intake,66.36,0
+HIST-1804,Plano,Anti-Reflective,Online,Inventory Check,34.91,0
+HIST-1805,Progressive,Blue Light,Online,Shipped,17.74,0
+HIST-1806,Plano,Anti-Reflective,"Manhattan, NY",Processing,62.66,1
+HIST-1807,Progressive,Anti-Reflective,"Manhattan, NY",Processing,23.66,0
+HIST-1808,Single Vision,Blue Light,"Manhattan, NY",Intake,52.57,1
+HIST-1809,Progressive,Transitions,"Queens, NY",QC,82.65,1
+HIST-1810,Plano,Blue Light,"Manhattan, NY",Inventory Check,4.99,0
+HIST-1811,Plano,Blue Light,"Manhattan, NY",Shipped,19.61,0
+HIST-1812,Progressive,None,Online,Inventory Check,40.98,0
+HIST-1813,Plano,Blue Light,"Manhattan, NY",QC,33.19,0
+HIST-1814,Single Vision,Transitions,"Brooklyn, NY",Processing,67.09,1
+HIST-1815,Single Vision,Anti-Reflective,"Brooklyn, NY",Inventory Check,63.27,1
+HIST-1816,Plano,Transitions,"Queens, NY",QC,67.18,1
+HIST-1817,Plano,Transitions,"Queens, NY",QC,52.02,1
+HIST-1818,Plano,None,"Brooklyn, NY",QC,44.42,0
+HIST-1819,Single Vision,Transitions,"Brooklyn, NY",Shipped,29.53,0
+HIST-1820,Single Vision,Anti-Reflective,"Queens, NY",QC,39.11,0
+HIST-1821,Progressive,Anti-Reflective,Online,Processing,61.97,0
+HIST-1822,Single Vision,Transitions,Online,Intake,38.65,0
+HIST-1823,Plano,Anti-Reflective,Online,QC,26.5,0
+HIST-1824,Plano,Anti-Reflective,Online,Intake,20.68,0
+HIST-1825,Plano,Anti-Reflective,"Brooklyn, NY",Intake,9.38,0
+HIST-1826,Progressive,None,Online,Shipped,42.05,0
+HIST-1827,Plano,Transitions,"Brooklyn, NY",Inventory Check,56.13,1
+HIST-1828,Plano,Anti-Reflective,"Manhattan, NY",Inventory Check,16.97,0
+HIST-1829,Progressive,Blue Light,"Queens, NY",QC,41.52,0
+HIST-1830,Single Vision,None,"Queens, NY",Intake,30.39,0
+HIST-1831,Plano,None,Online,Inventory Check,16.09,0
+HIST-1832,Progressive,Transitions,Online,Intake,47.76,0
+HIST-1833,Plano,Blue Light,"Manhattan, NY",Intake,7.45,0
+HIST-1834,Progressive,None,"Manhattan, NY",Intake,56.09,0
+HIST-1835,Progressive,Blue Light,"Brooklyn, NY",Intake,20.92,0
+HIST-1836,Single Vision,Blue Light,"Manhattan, NY",QC,47.6,0
+HIST-1837,Progressive,Blue Light,"Queens, NY",QC,91.43,1
+HIST-1838,Single Vision,Blue Light,Online,Inventory Check,15.97,0
+HIST-1839,Progressive,Transitions,"Manhattan, NY",Inventory Check,50.22,0
+HIST-1840,Plano,None,Online,Shipped,54.69,1
+HIST-1841,Progressive,Transitions,"Queens, NY",Processing,61.51,0
+HIST-1842,Single Vision,Transitions,Online,QC,59.1,1
+HIST-1843,Progressive,Anti-Reflective,"Brooklyn, NY",Intake,8.21,0
+HIST-1844,Single Vision,Anti-Reflective,Online,QC,19.35,0
+HIST-1845,Single Vision,None,"Manhattan, NY",Processing,18.14,0
+HIST-1846,Plano,Blue Light,"Brooklyn, NY",Intake,40.0,0
+HIST-1847,Plano,None,"Manhattan, NY",Inventory Check,16.6,0
+HIST-1848,Plano,Transitions,Online,Intake,39.84,0
+HIST-1849,Plano,Transitions,"Queens, NY",QC,60.7,1
+HIST-1850,Plano,Blue Light,"Queens, NY",Shipped,29.55,0
+HIST-1851,Plano,Blue Light,"Queens, NY",Intake,55.09,1
+HIST-1852,Single Vision,Blue Light,Online,Shipped,52.28,1
+HIST-1853,Progressive,Anti-Reflective,"Brooklyn, NY",Processing,65.08,0
+HIST-1854,Progressive,None,Online,Inventory Check,35.14,0
+HIST-1855,Progressive,Anti-Reflective,"Queens, NY",Inventory Check,18.07,0
+HIST-1856,Single Vision,None,Online,Shipped,4.41,0
+HIST-1857,Plano,Anti-Reflective,"Manhattan, NY",Processing,68.47,1
+HIST-1858,Progressive,Anti-Reflective,"Brooklyn, NY",Shipped,56.04,0
+HIST-1859,Plano,None,Online,QC,39.83,0
+HIST-1860,Single Vision,None,"Queens, NY",QC,55.32,1
+HIST-1861,Plano,Blue Light,"Brooklyn, NY",Shipped,48.56,1
+HIST-1862,Single Vision,Blue Light,"Manhattan, NY",Inventory Check,20.35,0
+HIST-1863,Progressive,None,"Queens, NY",Inventory Check,9.32,0
+HIST-1864,Plano,None,"Manhattan, NY",Shipped,17.24,0
+HIST-1865,Single Vision,Blue Light,"Manhattan, NY",Inventory Check,9.42,0
+HIST-1866,Progressive,Transitions,"Brooklyn, NY",Inventory Check,12.8,0
+HIST-1867,Single Vision,None,Online,Intake,5.93,0
+HIST-1868,Plano,Transitions,"Queens, NY",Processing,33.3,0
+HIST-1869,Plano,None,Online,Shipped,14.39,0
+HIST-1870,Plano,Transitions,"Brooklyn, NY",QC,36.65,0
+HIST-1871,Progressive,Anti-Reflective,"Manhattan, NY",Inventory Check,78.9,1
+HIST-1872,Progressive,Transitions,"Manhattan, NY",Processing,84.15,1
+HIST-1873,Single Vision,None,Online,Intake,19.44,0
+HIST-1874,Single Vision,Blue Light,"Queens, NY",Shipped,36.23,0
+HIST-1875,Progressive,None,"Queens, NY",Shipped,54.17,0
+HIST-1876,Plano,Transitions,Online,Shipped,28.83,0
+HIST-1877,Plano,Anti-Reflective,Online,QC,17.42,0
+HIST-1878,Progressive,Transitions,"Queens, NY",Shipped,58.12,0
+HIST-1879,Plano,None,Online,Intake,30.78,0
+HIST-1880,Plano,None,Online,Inventory Check,16.56,0
+HIST-1881,Plano,None,Online,Processing,32.19,0
+HIST-1882,Single Vision,None,"Manhattan, NY",Inventory Check,21.66,0
+HIST-1883,Plano,Transitions,"Manhattan, NY",Inventory Check,39.39,0
+HIST-1884,Plano,Blue Light,Online,Processing,72.05,1
+HIST-1885,Plano,Transitions,"Manhattan, NY",Processing,28.25,0
+HIST-1886,Single Vision,Blue Light,"Brooklyn, NY",Processing,62.91,1
+HIST-1887,Progressive,Blue Light,Online,QC,49.47,0
+HIST-1888,Progressive,Anti-Reflective,"Manhattan, NY",Shipped,43.2,0
+HIST-1889,Progressive,Anti-Reflective,"Queens, NY",Inventory Check,9.24,0
+HIST-1890,Single Vision,Anti-Reflective,Online,QC,59.6,1
+HIST-1891,Progressive,Transitions,Online,Shipped,19.65,0
+HIST-1892,Plano,Transitions,Online,Processing,18.29,0
+HIST-1893,Progressive,Anti-Reflective,"Queens, NY",QC,86.45,1
+HIST-1894,Single Vision,Transitions,"Queens, NY",Intake,43.35,0
+HIST-1895,Single Vision,Anti-Reflective,"Queens, NY",QC,44.74,0
+HIST-1896,Single Vision,Transitions,"Brooklyn, NY",Shipped,45.9,0
+HIST-1897,Single Vision,Blue Light,"Brooklyn, NY",QC,44.48,0
+HIST-1898,Progressive,Transitions,"Queens, NY",Processing,40.46,0
+HIST-1899,Plano,Blue Light,"Queens, NY",Intake,40.36,0
+HIST-1900,Plano,None,"Queens, NY",Shipped,4.55,0
+HIST-1901,Single Vision,None,"Queens, NY",Processing,22.91,0
+HIST-1902,Single Vision,None,"Manhattan, NY",Shipped,40.62,0
+HIST-1903,Progressive,Anti-Reflective,"Queens, NY",Inventory Check,49.81,0
+HIST-1904,Single Vision,Blue Light,"Brooklyn, NY",Inventory Check,42.11,0
+HIST-1905,Progressive,Transitions,Online,Inventory Check,63.58,0
+HIST-1906,Single Vision,Anti-Reflective,"Queens, NY",Intake,43.76,0
+HIST-1907,Single Vision,None,"Manhattan, NY",QC,33.95,0
+HIST-1908,Plano,Anti-Reflective,Online,QC,42.47,0
+HIST-1909,Single Vision,Blue Light,Online,QC,59.33,1
+HIST-1910,Single Vision,None,"Queens, NY",QC,40.3,0
+HIST-1911,Progressive,Blue Light,"Brooklyn, NY",Processing,72.67,1
+HIST-1912,Plano,Anti-Reflective,"Manhattan, NY",Shipped,25.58,0
+HIST-1913,Single Vision,Blue Light,"Brooklyn, NY",Intake,43.29,0
+HIST-1914,Single Vision,None,Online,Processing,17.04,0
+HIST-1915,Single Vision,None,"Brooklyn, NY",Shipped,39.39,0
+HIST-1916,Plano,None,"Brooklyn, NY",Intake,38.2,0
+HIST-1917,Plano,Anti-Reflective,"Brooklyn, NY",Inventory Check,17.49,0
+HIST-1918,Single Vision,Transitions,"Queens, NY",QC,58.47,1
+HIST-1919,Progressive,Anti-Reflective,"Brooklyn, NY",Processing,76.36,1
+HIST-1920,Single Vision,Blue Light,"Queens, NY",Inventory Check,28.42,0
+HIST-1921,Single Vision,Transitions,"Manhattan, NY",QC,19.19,0
+HIST-1922,Plano,None,Online,Processing,15.15,0
+HIST-1923,Progressive,Transitions,"Brooklyn, NY",QC,34.79,0
+HIST-1924,Plano,Transitions,"Queens, NY",Inventory Check,49.25,1
+HIST-1925,Plano,None,Online,QC,41.65,0
+HIST-1926,Single Vision,Anti-Reflective,"Brooklyn, NY",QC,70.43,1
+HIST-1927,Plano,Blue Light,"Queens, NY",Processing,44.5,0
+HIST-1928,Single Vision,Blue Light,"Queens, NY",Intake,55.05,1
+HIST-1929,Progressive,Anti-Reflective,"Manhattan, NY",Shipped,5.89,0
+HIST-1930,Single Vision,Blue Light,Online,Intake,37.16,0
+HIST-1931,Single Vision,Transitions,"Manhattan, NY",Inventory Check,-1.41,0
+HIST-1932,Plano,Anti-Reflective,Online,QC,14.77,0
+HIST-1933,Plano,Transitions,"Brooklyn, NY",Intake,20.4,0
+HIST-1934,Plano,None,Online,Intake,15.76,0
+HIST-1935,Plano,Transitions,"Manhattan, NY",Shipped,10.42,0
+HIST-1936,Plano,Anti-Reflective,Online,Intake,36.55,0
+HIST-1937,Single Vision,Anti-Reflective,"Manhattan, NY",Intake,6.66,0
+HIST-1938,Progressive,None,Online,Shipped,17.4,0
+HIST-1939,Single Vision,None,Online,Shipped,36.87,0
+HIST-1940,Single Vision,Transitions,"Queens, NY",QC,37.88,0
+HIST-1941,Single Vision,Blue Light,"Manhattan, NY",Intake,34.68,0
+HIST-1942,Single Vision,Blue Light,"Manhattan, NY",QC,16.85,0
+HIST-1943,Single Vision,None,"Manhattan, NY",Intake,42.66,0
+HIST-1944,Progressive,Anti-Reflective,"Brooklyn, NY",QC,22.59,0
+HIST-1945,Plano,Blue Light,Online,QC,51.91,1
+HIST-1946,Plano,Transitions,Online,Inventory Check,58.27,1
+HIST-1947,Single Vision,Anti-Reflective,Online,Shipped,59.2,1
+HIST-1948,Progressive,Blue Light,Online,Intake,46.86,0
+HIST-1949,Plano,None,"Queens, NY",Shipped,26.82,0
+HIST-1950,Plano,Anti-Reflective,"Queens, NY",Intake,19.07,0
+HIST-1951,Plano,Transitions,Online,Inventory Check,19.05,0
+HIST-1952,Single Vision,Blue Light,"Queens, NY",Inventory Check,25.73,0
+HIST-1953,Progressive,None,"Brooklyn, NY",Intake,64.34,0
+HIST-1954,Single Vision,Transitions,"Brooklyn, NY",Intake,57.5,1
+HIST-1955,Plano,Blue Light,Online,Inventory Check,51.81,1
+HIST-1956,Single Vision,None,"Queens, NY",Inventory Check,11.68,0
+HIST-1957,Single Vision,Transitions,"Manhattan, NY",Intake,30.03,0
+HIST-1958,Progressive,Anti-Reflective,"Manhattan, NY",Shipped,41.1,0
+HIST-1959,Single Vision,Transitions,"Manhattan, NY",Processing,60.15,1
+HIST-1960,Plano,None,"Queens, NY",Inventory Check,8.21,0
+HIST-1961,Progressive,Anti-Reflective,"Queens, NY",Inventory Check,80.84,1
+HIST-1962,Plano,Anti-Reflective,"Manhattan, NY",Intake,27.25,0
+HIST-1963,Single Vision,Transitions,Online,Processing,19.39,0
+HIST-1964,Single Vision,Blue Light,Online,Shipped,22.66,0
+HIST-1965,Single Vision,None,Online,Intake,4.94,0
+HIST-1966,Plano,None,Online,Shipped,26.68,0
+HIST-1967,Plano,None,Online,QC,18.08,0
+HIST-1968,Plano,Transitions,"Manhattan, NY",Inventory Check,20.0,0
+HIST-1969,Single Vision,None,Online,Processing,21.75,0
+HIST-1970,Plano,None,Online,QC,52.1,1
+HIST-1971,Progressive,Transitions,"Brooklyn, NY",Intake,39.72,0
+HIST-1972,Plano,None,"Queens, NY",QC,52.55,1
+HIST-1973,Plano,Anti-Reflective,"Brooklyn, NY",Shipped,56.92,1
+HIST-1974,Single Vision,Blue Light,"Brooklyn, NY",Intake,24.78,0
+HIST-1975,Single Vision,Blue Light,"Queens, NY",Inventory Check,43.33,0
+HIST-1976,Plano,Anti-Reflective,"Manhattan, NY",Processing,22.97,0
+HIST-1977,Plano,Anti-Reflective,"Manhattan, NY",Processing,33.97,0
+HIST-1978,Progressive,None,"Brooklyn, NY",Processing,38.6,0
+HIST-1979,Single Vision,Transitions,"Queens, NY",QC,58.4,1
+HIST-1980,Single Vision,Anti-Reflective,Online,Intake,14.19,0
+HIST-1981,Progressive,None,"Brooklyn, NY",Inventory Check,26.41,0
+HIST-1982,Progressive,Anti-Reflective,"Manhattan, NY",Shipped,77.69,1
+HIST-1983,Progressive,Anti-Reflective,Online,Processing,45.04,0
+HIST-1984,Single Vision,None,"Brooklyn, NY",Inventory Check,43.04,0
+HIST-1985,Progressive,Transitions,"Queens, NY",Processing,57.54,0
+HIST-1986,Plano,Transitions,Online,Processing,46.77,0
+HIST-1987,Progressive,Anti-Reflective,Online,Processing,92.33,1
+HIST-1988,Progressive,Blue Light,Online,Inventory Check,51.55,0
+HIST-1989,Plano,Blue Light,"Manhattan, NY",Inventory Check,53.93,1
+HIST-1990,Plano,Anti-Reflective,"Manhattan, NY",Inventory Check,17.7,0
+HIST-1991,Plano,Anti-Reflective,Online,Processing,34.71,0
+HIST-1992,Plano,Blue Light,"Queens, NY",Inventory Check,25.33,0
+HIST-1993,Single Vision,Blue Light,"Brooklyn, NY",Intake,26.51,0
+HIST-1994,Single Vision,Transitions,"Queens, NY",Inventory Check,7.52,0
+HIST-1995,Plano,Blue Light,"Queens, NY",QC,72.74,1
+HIST-1996,Plano,Anti-Reflective,Online,Processing,60.89,1
+HIST-1997,Single Vision,None,"Queens, NY",Intake,27.49,0
+HIST-1998,Progressive,Blue Light,"Brooklyn, NY",Processing,21.62,0
+HIST-1999,Single Vision,Blue Light,"Manhattan, NY",Intake,13.66,0
