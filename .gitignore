@@ -1,2 +1,26 @@
+# Security (CRITICAL)
 .env
+
+# Python Caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Mac OS System Files
+.DS_Store
+
+# IDE Configurations
+.vscode/
+.idea/
+
+# Streamlit config (if you created one locally)
+.streamlit/
+
+
 journal.md
