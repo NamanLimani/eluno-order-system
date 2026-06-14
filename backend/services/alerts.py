@@ -34,11 +34,18 @@ def check_sla_and_alert(order_id: int, lens_type: str, coating: str, store_locat
 
 # 3. The Real Email Mechanism
 def send_email_alert(order_id: int, stage: str, prob: float):
-    # Grab credentials and server details from environment variables
+    # Grab credentials and server details from environment variables (Brevo settings)
     smtp_server = os.getenv("SMTP_SERVER", "smtp-relay.brevo.com")
     smtp_port = int(os.getenv("SMTP_PORT", 587))
+    
+    # The email address your users will see it is from
     sender_email = os.getenv("EMAIL_SENDER", "eluno.demo@gmail.com")
-    sender_password = os.getenv("EMAIL_PASSWORD", "your_app_password") 
+    
+    # Brevo uses your sender email as the login username, but this dynamic variable keeps it compatible with any provider
+    smtp_username = os.getenv("SMTP_USERNAME", sender_email)
+    smtp_password = os.getenv("EMAIL_PASSWORD", "your_app_password") 
+    
+    # Where you want the alert delivered
     receiver_email = os.getenv("EMAIL_RECEIVER", "warehouse_manager@eluno.com")
 
     subject = f"🚨 CRITICAL: SLA Breach Risk for Order #{order_id}"
@@ -63,18 +70,20 @@ def send_email_alert(order_id: int, stage: str, prob: float):
     msg['Subject'] = subject
     msg.attach(MIMEText(body, 'plain'))
 
-    # 4. Attempt to send the real email, fallback to terminal if no credentials exist
+    # 4. Attempt to send the real email, fallback to terminal if authentication fails
     try:
-        # Connect to the configured SMTP server (Brevo/SendGrid)
+        # Connect to the configured SMTP server
         server = smtplib.SMTP(smtp_server, smtp_port)
         server.starttls() # Secure the connection
-        server.login(sender_email, sender_password)
+        
+        # Log in using the dedicated username
+        server.login(smtp_username, smtp_password)
         text = msg.as_string()
         server.sendmail(sender_email, receiver_email, text)
         server.quit()
         print(f"\n✅ REAL EMAIL ALERT SENT to {receiver_email} for Order #{order_id}!\n")
     except Exception as e:
-        # The Safety Net: If it fails, mock it in the terminal so the system survives
+        # The Safety Net: Catch cloud sandbox blocks and print the payload safely
         print("\n" + "📧" * 25)
         print(f" [EMAIL API ERROR/MOCKED] - {str(e)}")
         print(f" To: {receiver_email}")
