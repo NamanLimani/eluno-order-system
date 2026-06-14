@@ -29,13 +29,14 @@ def check_sla_and_alert(order_id: int, lens_type: str, coating: str, store_locat
     probability = model.predict_proba(input_data)[0][1]
 
     if probability >= 0.80:
-        # Trigger the new Email alert!
+        # Trigger the Email alert
         send_email_alert(order_id, current_stage, probability)
 
 # 3. The Real Email Mechanism
 def send_email_alert(order_id: int, stage: str, prob: float):
-    # Grab credentials from environment variables (or put a dummy email here just for the terminal fallback)
-    # WARNING: Never hardcode real passwords in your code!
+    # Grab credentials and server details from environment variables
+    smtp_server = os.getenv("SMTP_SERVER", "smtp-relay.brevo.com")
+    smtp_port = int(os.getenv("SMTP_PORT", 587))
     sender_email = os.getenv("EMAIL_SENDER", "eluno.demo@gmail.com")
     sender_password = os.getenv("EMAIL_PASSWORD", "your_app_password") 
     receiver_email = os.getenv("EMAIL_RECEIVER", "warehouse_manager@eluno.com")
@@ -64,8 +65,8 @@ def send_email_alert(order_id: int, stage: str, prob: float):
 
     # 4. Attempt to send the real email, fallback to terminal if no credentials exist
     try:
-        # Connect to Gmail's SMTP server
-        server = smtplib.SMTP('smtp.gmail.com', 587)
+        # Connect to the configured SMTP server (Brevo/SendGrid)
+        server = smtplib.SMTP(smtp_server, smtp_port)
         server.starttls() # Secure the connection
         server.login(sender_email, sender_password)
         text = msg.as_string()
@@ -73,9 +74,9 @@ def send_email_alert(order_id: int, stage: str, prob: float):
         server.quit()
         print(f"\n✅ REAL EMAIL ALERT SENT to {receiver_email} for Order #{order_id}!\n")
     except Exception as e:
-        # The Safety Net: If it fails (e.g., bad password), mock it in the terminal so the demo survives
+        # The Safety Net: If it fails, mock it in the terminal so the system survives
         print("\n" + "📧" * 25)
-        print(" [EMAIL API MOCKED] - CREDENTIALS NOT SET")
+        print(f" [EMAIL API ERROR/MOCKED] - {str(e)}")
         print(f" To: {receiver_email}")
         print(f" Subject: {subject}")
         print(body)
