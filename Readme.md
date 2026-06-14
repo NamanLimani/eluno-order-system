@@ -45,7 +45,7 @@ eluno_order_system/
 ├── docker-compose.yml       # Orchestrates local deployment of FastAPI, Streamlit, and Postgres
 ├── architecture_note.md     # 1-page defense of technical choices and stack selection
 │
-├── backend/                 # 🧠 Module 1 & 3: FastAPI Logic & API Endpoints
+├── backend/                 #  Module 1 & 3: FastAPI Logic & API Endpoints
 │   ├── Dockerfile           # Builds the isolated Linux container for the backend
 │   ├── requirements.txt     # Backend-specific dependencies (FastAPI, XGBoost, SQLAlchemy)
 │   ├── main.py              # Application entry point; registers routers
@@ -57,7 +57,7 @@ eluno_order_system/
 │   └── services/
 │       └── alerts.py        # Asynchronous background service for ML prediction and Email alerts
 │
-├── frontend/                # 🖥️ Module 2: Streamlit Operations UI
+├── frontend/                #  Module 2: Streamlit Operations UI
 │   ├── Dockerfile           # Builds the isolated Linux container for the frontend
 │   ├── requirements.txt     # Frontend-specific dependencies (Streamlit, Pandas)
 │   ├── app.py               # Main dashboard UI and patience warning implementation
@@ -66,7 +66,7 @@ eluno_order_system/
 │       ├── order_table.py   # Renders the filterable Pandas dataframe UI
 │       └── status_form.py   # Renders the update form and triggers backend PUT requests
 │
-└── mlops/                   # 🤖 Model Training & Pipeline Infrastructure
+└── mlops/                   #  Model Training & Pipeline Infrastructure
     ├── requirements.txt     # Data Science dependencies for local training
     ├── run_pipeline.py      # Entry point to execute the full model training lifecycle
     ├── data/
