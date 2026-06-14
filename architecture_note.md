@@ -8,7 +8,7 @@ The Eluno Order Management Engine is a decoupled, microservice-style architectur
 **Live Demo URLs:**
 * **Frontend Dashboard:** https://eluno-dashboard.onrender.com
 * **Backend API Docs:** https://eluno-backend-api.onrender.com/docs
-> *⚠️ Note on Deployment: This application is hosted on Render's free tier. If the service has been inactive for 15 minutes, the containers spin down. Please allow 45-60 seconds for a "cold boot" when first clicking the links. Thank you for your patience!*
+> * Note on Deployment: This application is hosted on Render's free tier. If the service has been inactive for 15 minutes, the containers spin down. Please allow 45-60 seconds for a "cold boot" when first clicking the links. Thank you for your patience!*
 
 ---
 
